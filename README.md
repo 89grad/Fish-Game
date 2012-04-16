@@ -7,6 +7,13 @@ Fish that get close enough to the circle, start to eat it and in turn diminishes
 A [video of the installation](http://www.youtube.com/watch?v=v7GTQomqFMk) and a short basic technical description of the fish movements can be found on our
 [blog](http://www.89grad.ch/2012/04/museumsnacht-tech/) (sorry, German only).
 
+## Quickplay
+
+The quickest way to get started is to play the game without the Kinect. Just follow these steps:
+
+1. Install [Cocos2D](http://cocos2d.org) (see Game engine below)
+2. Run `python mnb.py` from within the Game directory.
+
 ## Components
 
 The whole game can be split into three parts:
